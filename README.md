@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Hoang, a third-year IT/CS student at RMIT University Vietnam!
+
 <!--
 **ThaiHoangDang/thaihoangdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
