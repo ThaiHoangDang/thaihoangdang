@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm `Hoang`, a third-year IT/CS student at `RMIT University Vietnam`, currently interning at `Cốc Cốc` - A browser and search engine company based in Vietnam! Feel free to contact me via [Email](thaihoangdang1803@gmail.com), [Facebook](https://www.facebook.com/thaihoang.dang.33/), or [LinkedIn](https://www.linkedin.com/in/thai-hoang-dang/).
+I'm `Hoang`, a third-year IT/CS student at `RMIT University Vietnam`, currently interning at `Cốc Cốc` - A browser and search engine company based in Vietnam! Feel free to contact me via Email - thaihoangdang1803@gmail.com, [Facebook](https://www.facebook.com/thaihoang.dang.33/), or [LinkedIn](https://www.linkedin.com/in/thai-hoang-dang/).
 
 <!--
 **ThaiHoangDang/thaihoangdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
